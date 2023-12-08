@@ -1,0 +1,41 @@
+.resource {
+    padding: 120px 0;
+
+    .resource-box {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    &-text {
+        h2 {
+            width: 360px;
+            color: #163A24;
+            font-size: 45px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: 54px;
+            margin-bottom: 25px;
+        }
+
+        p {
+            color: #163A24;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 27px;
+            margin-bottom: 19px;
+        }
+
+        a {
+            color: #FBFAF7;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            border-radius: 160px;
+            background: #198C36;
+            padding: 15px 25px;
+        }
+    }
+}

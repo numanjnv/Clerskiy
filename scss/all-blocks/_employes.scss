@@ -1,0 +1,63 @@
+.employes {
+    background: #F2EFE6;
+}
+
+.employes-box {
+    h2 {
+        color: #163A24;
+        text-align: center;
+        font-family: Recoleta;
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 54px;
+        width: 739px;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    p {
+        color: #163A24;
+        text-align: center;
+        font-family: Noto Sans;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 27px;
+        width: 760px;
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 27px;
+        margin-bottom: 20px;
+    }
+
+    img {
+        margin-bottom: 135px;
+    }
+}
+
+.fit {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+      margin-top: 180px;
+      margin-bottom: 115px;
+    .fit-text h2 {
+        width: 376px;
+        color: #163A24;
+        font-size: 44px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 54px;
+        margin-bottom: 27px;
+    }
+
+    .fit-text p {
+        width: 324px;
+        color: #163A24;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 27px;
+    }
+}

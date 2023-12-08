@@ -1,0 +1,35 @@
+.list-4 {
+  padding: 120px 0;
+}
+.list-4 .list-4-box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.list-4-text h2 {
+  width: 360px;
+  color: #163A24;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 54px;
+  margin-bottom: 25px;
+}
+.list-4-text p {
+  color: #163A24;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px;
+  margin-bottom: 19px;
+}
+.list-4-text a {
+  color: #FBFAF7;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  border-radius: 160px;
+  background: #198C36;
+  padding: 15px 25px;
+}/*# sourceMappingURL=.resources.css.map */
